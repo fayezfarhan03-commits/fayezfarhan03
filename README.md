@@ -10,7 +10,7 @@ I'm a Mechanical Engineer and computational materials researcher with a strong f
 
 ⚙️ Engineering & Hardware: Experienced in CAD modeling, Finite Element Analysis (FEA), and building autonomous physical systems alongside digital simulations.
 
-🎓 Background: B.Sc. in Mechanical Engineering from BUET ('18 batch). Active in the BUET Automobile and Robotics Clubs.
+🎓 Background: B.Sc. in Mechanical Engineering from BUET ('20 batch). Active in the BUET Automobile and Robotics Clubs.
 
 🛠️ Skills
 

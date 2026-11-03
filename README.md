@@ -1,5 +1,4 @@
-# fayezfarhan03
-Hi there, I'm Fayez Uddin Ahmed Farhan 👋
+# Hi there, I'm Fayez Uddin Ahmed Farhan 👋
 
 I'm a Mechanical Engineer and computational materials researcher with a strong focus on atomistic modeling, machine learning interatomic potentials, and physical simulation. I combine first-principles analytical rigor with data-driven techniques to overcome complex challenges in materials science, while also building automated tools and hardware systems.
 
